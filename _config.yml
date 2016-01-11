@@ -1,6 +1,6 @@
 name: Alex Kane Design
 favicon: null
-layout_spectrum: 0.91844
+layout_spectrum: 0
 typography_spectrum: 0.51912
 title: Alex Kane Design
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.1875
   lightness: 0.6096843467094004
   saturation: 0.8304570154286921
-  rhythmicContrast: 0.8793339587282389
+  rhythmicContrast: 1
 purpose: []
