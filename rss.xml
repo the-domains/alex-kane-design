@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Alex Kane Design]]></title>
         <description><![CDATA[Alex Kane Design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alex-kane-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 04:30:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jan 2016 04:43:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alex-kane-design/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/79da2b65-8a4b-484c-8b37-bd2fa5103a3d.jpg">]]></description>
-            <link>undefined0ed5f368-459e-46ec-aba5-7c94fe84d909/index.html</link>
+            <link>https://thegrid.ai/alex-kane-design/0ed5f368-459e-46ec-aba5-7c94fe84d909/index.html</link>
             <guid isPermaLink="false">0ed5f368-459e-46ec-aba5-7c94fe84d909</guid>
-            <pubDate>Mon, 11 Jan 2016 04:30:38 GMT</pubDate>
+            <pubDate>Mon, 11 Jan 2016 04:43:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
